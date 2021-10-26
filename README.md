@@ -1,5 +1,5 @@
 ## Books
-   * 
+   * **[Computer Vision for Autonomous Vehicles: Problems, Datasets and State of the Art](https://arxiv.org/pdf/1704.05519.pdf)**
 ## Articles 
 ## Talks/Videos
 ## Papers
